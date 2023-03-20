@@ -5,15 +5,21 @@ Welcome to my page!
 I'm Ahithophel. Currently pursuing my MSc. in Financial Technology at the University of Aberdeen. 
 
 As someone with a passion for technology and data, data science and analysis, I'm always learning and looking for new challenges to help me improve and expand my skills and knowledge. I'm excited about the possibilities that financial technology and data presents, and I'm eager to apply my knowledge and expertise to this field.
-<h3 align="left">Skills:</h3>
-- Data preparation
-- Analysis and Visualization
-- Dashboard development and reporting
-- Exploratory data analysis
+<h3 align="left">Skills</h3>
+
+* Data preparation
+* Analysis and Visualization
+* Dashboard development and reporting
+* Exploratory data analysis
 
 <h3 align="center">Projects</h3>
-Markup :  [Covid-19 Data Exploration]([http://www.google.fr](https://github.com/ahithoyeboah/SQL_Covid-Exploration)/ "Covid-19 Data Exploration")
-- [Scraping Rotten Tomatoes](https://github.com/ahithoyeboah/Scraping-Rotten-Tomatoes-140-Essential-Movies)
+
+Project Name | Description      | Tools /Languages Used
+-------------| -----------------|----------------------
+[Scraping Rotten Tomatoes](https://github.com/ahithoyeboah/Scraping-Rotten-Tomatoes-140-Essential-Movies/ "Scraping Rotten Tomatoes") | Scraped Rotten Tomatoes to collect info about the top 140 essential movies | Python, Beautiful Soup, Requests, Pandas
+[Covid-19 Data Exploration](https://github.com/ahithoyeboah/SQL_Covid-Exploration/ "Covid-19 Data Exploration") | Performed Exploratory Data Analysis and visualizations on Covid-19 Data | SQL, Tableau
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
