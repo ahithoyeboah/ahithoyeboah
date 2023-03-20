@@ -12,7 +12,7 @@ As someone with a passion for technology and data, data science and analysis, I'
 - Exploratory data analysis
 
 <h3 align="center">Projects</h3>
-- [Covid-19 Data Exploration](https://github.com/ahithoyeboah/SQL_Covid-Exploration)
+Markup :  [Covid-19 Data Exploration]([http://www.google.fr](https://github.com/ahithoyeboah/SQL_Covid-Exploration)/ "Covid-19 Data Exploration")
 - [Scraping Rotten Tomatoes](https://github.com/ahithoyeboah/Scraping-Rotten-Tomatoes-140-Essential-Movies)
 
 <h3 align="left">Connect with me:</h3>
