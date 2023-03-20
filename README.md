@@ -4,7 +4,7 @@ Welcome to my page!
 
 I'm Ahithophel. Currently pursuing my MSc. in Financial Technology at the University of Aberdeen. 
 
-As someone with a passion for technology and data, data science and analysis, I'm always learning and looking for new challenges to help me improve and expand my skills and knowledge. I'm excited about the possibilities that financial technology and data presents, and I'm eager to apply my knowledge and expertise to this field.
+As someone with a passion for technology, data science and analysis, I'm always learning and looking for new challenges to help me improve and expand my skills and knowledge. I'm excited about the possibilities that financial technology and data presents, and I'm eager to apply my knowledge and expertise to this field.
 <h3 align="left">Skills</h3>
 
 * Data preparation
