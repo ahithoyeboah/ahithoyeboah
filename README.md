@@ -19,7 +19,7 @@ Project Name | Description      | Tools /Languages Used
 [Credit Risk Modelling](https://github.com/ahithoyeboah/Credit-Risk-Modelling) | A credit risk model was developed with four machine learning algorithms with the German Credit Risk Dataset | Python/Jupyter Notebook, Scikit Learn
 [Stock Data Analysis](https://github.com/ahithoyeboah/Stock-Data-Analysis-Portfolio/ "Stock Data Analysis") | Data relating to five FTSE100 companies was collected with the YFinance Library from which comprehensive financial analysis was performed using python. A trading strategy (Bollinger Bands) was developed to analyse returns. A portfolio was optimized with the python scipy library and performance analysed and evaluated. | Python/Jupyter Notebook
 [Scraping Rotten Tomatoes](https://github.com/ahithoyeboah/Scraping-Rotten-Tomatoes-140-Essential-Movies/ "Scraping Rotten Tomatoes") | Scraped Rotten Tomatoes to collect info about the top 140 essential movies | Python, Beautiful Soup, Requests, Pandas
-[Covid-19 Data Exploration](https://github.com/ahithoyeboah/SQL_Covid-Exploration/ "Covid-19 Data Exploration") | Performed Exploratory Data Analysis and visualizations on Covid-19 Data | SQL, Tableau
+[Covid-19 Data Exploration](https://github.com/ahithoyeboah/SQL_Covid-Exploration/ "Covid-19 Data Exploration") | Performed Exploratory Data Analysis and visualizations on Covid-19 Data | Excel, SQL, Tableau
 
 
 
