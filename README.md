@@ -1,3 +1,5 @@
+<h3 align="center">Changing the world, one model and dataset at a time </h3>
+
 <h2 align="left">Hi 👋, nice to see you! </h2>
 
 Welcome to my page!
@@ -16,6 +18,7 @@ As someone with a passion for technology, data science and analysis, I'm always 
 
 Project Name | Description      | Tools /Languages Used
 -------------| -----------------|----------------------
+[Apple Glassdoor Sentiment Analysis](https://github.com/ahithoyeboah/Sentiment-Analysis-on-Apple-Glassdoor-Reviews) | Performed sentiment analysis on Apple Inc. Glassdoor reviews data to determine the sentiment expressed in these reviews and evaluate Apple's overall performance as an employer.| Python/Jupyter Notebook, Scikit Learn, VADER, NLTK
 [Credit Risk Modelling](https://github.com/ahithoyeboah/Credit-Risk-Modelling) | A credit risk model was developed with four machine learning algorithms with the German Credit Risk Dataset | Python/Jupyter Notebook, Scikit Learn
 [Stock Data Analysis](https://github.com/ahithoyeboah/Stock-Data-Analysis-Portfolio/ "Stock Data Analysis") | Data relating to five FTSE100 companies was collected with the YFinance Library from which comprehensive financial analysis was performed using python. A trading strategy (Bollinger Bands) was developed to analyse returns. A portfolio was optimized with the python scipy library and performance analysed and evaluated. | Python/Jupyter Notebook
 [Scraping Rotten Tomatoes](https://github.com/ahithoyeboah/Scraping-Rotten-Tomatoes-140-Essential-Movies/ "Scraping Rotten Tomatoes") | Scraped Rotten Tomatoes to collect info about the top 140 essential movies | Python, Beautiful Soup, Requests, Pandas
