@@ -9,6 +9,7 @@ I'm Ahithophel. a recent MSc. in Financial Technology graduate.
 As someone with a passion for technology, data science and analysis, I'm always learning and looking for new challenges to help me improve and expand my skills and knowledge. I'm excited about the possibilities that financial technology and data presents, and I'm eager to apply my knowledge and expertise to this field.
 <h3 align="left">Skills</h3>
 
+*Data Engineering
 * Data preparation
 * Analysis and Visualization
 * Dashboard development and reporting
